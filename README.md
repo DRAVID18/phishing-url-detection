@@ -1,4 +1,5 @@
 
+
 # Phishing Website Detection Using Machine Learning
 
 ## Problem Statement
@@ -53,7 +54,6 @@ The current interface accepts encoded dataset features.
 It does not extract features from a pasted URL and should
 not be treated as a real-time security scanner.
 
-## Dataset Attribution
 R. Mohammad, L. McCluskey and F. Thabtah,
 Phishing Websites, UCI Machine Learning Repository.
 https://doi.org/10.24432/C51W2X
